@@ -2,7 +2,7 @@
 
 An admin dashboard is a centralized interface designed to provide administrators with a comprehensive overview of a system, application, or business's operational and analytical aspects. It is an essential tool for monitoring, managing, and controlling various functionalities, ensuring efficiency and productivity.
 
- Key Features
+## 🚀 Features
 📋 Sidebar Navigation
 
 Organized Menus:
